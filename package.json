@@ -1,0 +1,13 @@
+{
+  "name": "fb-login-page-clone---tailwind-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
